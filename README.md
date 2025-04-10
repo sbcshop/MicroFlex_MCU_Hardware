@@ -10,7 +10,7 @@ This Github provides hardware design files for MicroFlex MCU boards.
   - [/Mechanical Data](https://github.com/sbcshop/MicroFlex_MCU_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files of various MicroFlex MCU boards.
   - [Getting Started Guide](https://github.com/sbcshop/MicroFlex_MCU_Software/) - This repository includes instructions for getting started with different MicroFlex MCU boards.
 
-**Disclaimer: The files provided, including mechanical dimensions, and STEP files, are for reference only. Variations may exist between these files and the actual physical product. We do not assume responsibility for any discrepancies or damages resulting from their use. It is strongly recommended to verify all critical dimensions and specifications using the physical product before manufacturing or integration.**
+**DISCLAIMER: The files provided, including mechanical dimensions, and STEP files, are for reference only. Variations may exist between these files and the actual physical product. We do not assume responsibility for any discrepancies or damages resulting from their use. It is strongly recommended to verify all critical dimensions and specifications using the physical product before manufacturing or integration.**
 
 ## Related Products  
   
